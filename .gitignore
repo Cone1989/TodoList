@@ -1,0 +1,21 @@
+# 依赖目录
+node_modules/
+
+# 打包构建产物
+dist/
+dist-ssr/
+
+# macOS 系统隐藏文件
+.DS_Store
+
+# 环境变量与日志文件
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 编辑器配置目录
+.vscode/
+.idea/
